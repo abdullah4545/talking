@@ -1,0 +1,53 @@
+.mainMenu {
+    float: left;
+    height: auto;
+    margin: 0;
+}
+#mainUl {
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+}
+#mainLi {
+    font-size: 30px;
+    list-style: none;
+    padding: 5px;
+    float: left;
+    margin-top: 2px;
+}
+#mainA{
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#mainA:hover{
+background-color: lightgray;
+border-radius: 6px;
+}
+#subMenu{
+    width: 20%;
+    float: left;
+    padding-top: 16px;
+}
+#acDrop{
+    width: 100%;
+    float: left;
+    padding: 3px;
+    padding-left: 10px;
+}
+#acDrop:hover{
+background:#f1f1f1;
+color:#088dcd;
+}
+#acDrop i {
+    color: #088dcd;
+    padding: 6px;
+    padding-left: 0;
+    font-size: 12px;
+}
+.ti-power-off {
+    font-size: 12px;
+    padding: 11px;
+    padding-right: 2px;
+}
